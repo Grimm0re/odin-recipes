@@ -1,0 +1,1 @@
+This will be a basic HTML recipe website.  It will mainly consist of an index page and a few links to some recipes.  While it will not look pretty, it should function well all the same.
